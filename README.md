@@ -2,7 +2,7 @@
 
 Nama: Iqhsan Saleh  
 NIM: 2225250021  
-Kelas: 3A (S1 Pendidikan Matematika)
+Kelas: 3A
 
 ## Tujuan
 
